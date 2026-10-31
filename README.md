@@ -1,9 +1,11 @@
 <h1 align="center">Project Scoper for Zoho CRM</h1>
 <p align="center"><strong>Make scope automation easier to inspect.</strong><br>An administrator workspace for checking the Deals module, Project_Packages field, function-action discovery and scope workflow configuration.</p>
-<p align="center">Commercial product showcase · Licensing and installation by arrangement</p>
+<p align="center">Tested &amp; In Development / Pre-Release · Development showcase and fictional-data tours</p>
+
+> **Tested & In Development / Pre-Release.** Testing covers documented development checks only. Production readiness and customer-specific acceptance remain pending.
 
 > [!IMPORTANT]
-> **Showcase only.** This public repository contains product information and fictional demonstration media. It provides no software source, installable packages, free beta downloads or software license. Commercial availability and deployment scope are agreed privately. Product validation and the limitations below still apply.
+> **Showcase only.** This public repository contains product information and fictional demonstration media. It provides no software source, installable packages, free beta downloads or software license. Release availability remains pending; any future deployment scope will be agreed privately. Product validation and the limitations below still apply.
 
 [Discuss a commercial installation](https://github.com/RawPowered/Zoho-Project-Scoper/issues/new?template=commercial-inquiry.yml) · [Deployment model](DEPLOYMENT.md) · [Commercial terms overview](COMMERCIAL.md)
 
@@ -70,7 +72,7 @@ Schema, access profiles, workflows and service connections are reviewed for the 
 - Creating a workflow rule does not prove the called function is correct.
 - Existing workflow rules are not automatically rewritten or repaired.
 
-This is a commercial product under validation, not a free beta offer. Account-specific acceptance is required before production activation. Credentials and customer data are configured privately in the customer environment.
+Status: **Tested & In Development / Pre-Release**. Account-specific acceptance is required before production activation. Credentials and customer data are configured privately in the customer environment.
 
 ## Commercial availability
 
